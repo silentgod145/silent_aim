@@ -1,0 +1,9 @@
+load = "silent aim" silent.aim.fov.circle.size = 10
+draw.size.FOV = 10
+
+local fuctions
+     FOV.show = false
+     local fuction  ("FOV") = show_files_FOV.SilentFOV 
+     
+     local fuction
+     Silent.FOV = 5.2
